@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(121, 160, 137);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-family: Arial;
+}
+
+.quadro {
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.287);
+}
+
+.quadro p {
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    padding: 25px;
+}
+
+#dados p {
+    margin: 0;
+}
+
+#res {
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+#res2 {
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+}
+
+#restxt {
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: Arial;
+    font-size: 18px;
+}
