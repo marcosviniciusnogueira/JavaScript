@@ -1,0 +1,158 @@
+#container {
+    background: rgb(239, 236, 236);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#drum-machine {
+    background: black;
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    /* box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.363); */
+
+}
+
+#header {
+    height: 80px;
+    width: 490px;
+    margin: 0;
+    padding: 0;
+    border: 5px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#header h1 {
+    margin: 0;
+    padding: 15px;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#header h2 {
+    margin: 0;
+    padding: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#pads {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.apertou {
+    box-shadow: 5px 5px 5px 5px rgba(50, 49, 49, 0.866);
+}
+
+#pad-1 {
+    background: blue;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-2 {
+    background: turquoise;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-3 {
+    background: purple;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-4 {
+    background: red;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-5 {
+    background: rgb(161, 161, 45);
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-6 {
+    background: brown;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-7 {
+    background: orange;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-8 {
+    background: green;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#pad-9 {
+    background: pink;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
